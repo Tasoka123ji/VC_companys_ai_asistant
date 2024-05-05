@@ -18,6 +18,6 @@
 
 # explanation
 I used llama3 to do this task, but locally. It failed to install on the server, so I left it local.
-![Profile Photo](https://github.com/Tasoka123ji/VC_companys_ai_asistant/Screenshot%20from%202024-05-05%2023-07-49.png)
+![Profile Photo](https://github.com/Tasoka123ji/VC_companys_ai_asistant/blob/main/Screenshot%20from%202024-05-05%2023-07-49.png)
 
 
