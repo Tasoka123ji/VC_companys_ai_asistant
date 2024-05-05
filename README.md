@@ -18,4 +18,6 @@
 
 # explanation
 I used llama3 to do this task, but locally. It failed to install on the server, so I left it local.
+![Profile Photo](https://github.com/Tasoka123ji/VC_companys_ai_asistant/)
+
 
